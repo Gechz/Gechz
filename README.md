@@ -13,8 +13,7 @@ I am currently pursuing a dual degree program, combining an MBA and a Master's i
 
 🏫I’m currently learning basic SQL and Python.
 
-## Aspirations
-Being in Spain is a fun experience, but I hope to go back to my home in Panama so I can bring along my experience to generate an impact in the country.
+
 
 ## How to reach me
 [Linkedin Profile](www.linkedin.com/in/gabriel-chapz-12f96)
